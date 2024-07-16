@@ -7,12 +7,17 @@
 }
 
 @font-face {
-    font-family: kik;
+    font-family: popo;
     src: url(/CFIRobotRegular.ttf);
 }
 
 @font-face {
-    font-family: kik;
+    font-family: popo;
+    src: url(/Blockbusted.ttf);
+}
+
+@font-face {
+    font-family: popo;
     font-display: swap;
     src: url("../fonts/Naughty%20Squirrel%20Demo.woff2") format("woff2");
     font-weight: 400;
@@ -20,13 +25,13 @@
 }
 
 @font-face {
-    font-family: kik;
+    font-family: popo;
     src: url(/This\ Night.ttf);
 }
 
 @font-face {
-    font-family: kik;
-    src: url(/youkikerbb_reg.ttf);
+    font-family: popo;
+    src: url(/youpopoerbb_reg.ttf);
 }
 
 @font-face {
@@ -60,7 +65,7 @@ html {
 body {
     color: black;
     line-height: 1;
-    font-family: kik;
+    font-family: popo;
     font-size: 1.5rem;
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
@@ -72,7 +77,7 @@ body {
 button,
 input,
 textarea {
-    font-family: kik;
+    font-family: popo;
     font-size: inherit;
     line-height: inherit;
     color: inherit;
@@ -347,7 +352,7 @@ h6 {
 .title span {
     display: inline-block;
     color: #fff;
-    font-family: kik;
+    font-family: popo;
     font-style: normal;
     font-weight: 900;
     -webkit-transform-origin: left;
@@ -889,7 +894,7 @@ h6 {
     -webkit-transform-origin: left;
     transform-origin: left;
     color: #000;
-    font-family: kik;
+    font-family: popo;
     font-weight: 900;
     line-height: normal;
     -webkit-transform: translateX(50vw) scaleX(1.4) scaleY(1);
@@ -1058,7 +1063,7 @@ h6 {
 
 .hello-about__header span:nth-child(1) {
     color: #fff;
-    font-family: kik;
+    font-family: popo;
     font-weight: 900
 }
 
@@ -1352,7 +1357,7 @@ h6 {
 }
 
 .roadmap__item-title {
-    font-family: kik;
+    font-family: popo;
     font-weight: 900;
     line-height: normal
 }
@@ -1414,7 +1419,7 @@ h6 {
 
 .tokenomics__item span:nth-child(2) {
     color: #000;
-    font-family: kik;
+    font-family: popo;
     font-weight: 900;
     line-height: normal
 }
@@ -1450,7 +1455,7 @@ h6 {
 
 .tokenomics__ca p:nth-child(2) span {
     color: #000;
-    font-family: kik;
+    font-family: popo;
     font-weight: 900;
     line-height: normal;
     word-break: break-all;
